@@ -24,3 +24,11 @@ I will continue to practice using relative units and improving on my responsive 
 ## Author
 
 - Frontend Mentor - [@ruledarules](https://www.frontendmentor.io/profile/yourusername)
+
+## Updates
+
+Since the first submission, I realized that my mobile version was not clean and so I had to start fresh and develop the responsiveness of the page from the ground up. I had taken the time to learn how to take advantage of relative and responsive css units of measure to help.
+
+## Thank you to Keven Powell
+
+Using Kevin's resources and free videos, I was able to approach this second submission with a better understanding of the building responsive pages.
